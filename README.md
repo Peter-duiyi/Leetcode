@@ -6,3 +6,10 @@ used for managing problems by category
 [2. Add Two Numbers](https://github.com/Peter-duiyi/Leetcode/blob/master/2.%20Add%20Two%20Numbers.md)  
 [445. Add Two Numbers II](https://github.com/Peter-duiyi/Leetcode/blob/master/445.%20Add%20Two%20Numbers%20II.md)  
 [67. Add Binary](https://github.com/Peter-duiyi/Leetcode/blob/master/67.%20Add%20Binary.md)  
+
+## group 2(backtracking)
+[]
+
+
+
+## group 3
