@@ -9,7 +9,7 @@ used for managing problems by category
 
 ## group 2(backtracking)
 [39. Combination Sum](https://github.com/Peter-duiyi/Leetcode/blob/master/39.%20Combination%20Sum.md)
-
+[40. Combination Sum II](https://github.com/Peter-duiyi/Leetcode/blob/master/40.%20Combination%20Sum%20II.md)
 
 
 ## group 3
