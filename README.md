@@ -12,4 +12,4 @@ used for managing problems by category
 [40. Combination Sum II](https://github.com/Peter-duiyi/Leetcode/blob/master/40.%20Combination%20Sum%20II.md)  
 
 
-## group 3
+## group 3(bit manipulation)
