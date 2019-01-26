@@ -13,3 +13,4 @@ used for managing problems by category
 
 
 ## group 3(bit manipulation)
+[371. Sum of Two Integers](https://github.com/Peter-duiyi/Leetcode/blob/master/371.%20Sum%20of%20Two%20Integers.md)
