@@ -13,8 +13,8 @@ used for managing problems by category
 
 
 ## group 3(bit manipulation)
-[Bitwise operation](https://github.com/Peter-duiyi/Leetcode/blob/master/Bitwise%20operations.md)
-[371. Sum of Two Integers](https://github.com/Peter-duiyi/Leetcode/blob/master/371.%20Sum%20of%20Two%20Integers.md)
-[338. Counting Bits](https://github.com/Peter-duiyi/Leetcode/blob/master/338.%20Counting%20Bits.md)
+[Bitwise operation](https://github.com/Peter-duiyi/Leetcode/blob/master/Bitwise%20operations.md)  
+[371. Sum of Two Integers](https://github.com/Peter-duiyi/Leetcode/blob/master/371.%20Sum%20of%20Two%20Integers.md)  
+[338. Counting Bits](https://github.com/Peter-duiyi/Leetcode/blob/master/338.%20Counting%20Bits.md)  
 
 ## group 3(greedy algorithm)
