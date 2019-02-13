@@ -17,4 +17,5 @@ used for managing problems by category
 [371. Sum of Two Integers](https://github.com/Peter-duiyi/Leetcode/blob/master/371.%20Sum%20of%20Two%20Integers.md)  
 [338. Counting Bits](https://github.com/Peter-duiyi/Leetcode/blob/master/338.%20Counting%20Bits.md)  
 
-## group 3(greedy algorithm)
+## group 3(dynamic programming)
+[62. Unique Paths]()
