@@ -22,3 +22,6 @@ used for managing problems by category
 [63. Unique Paths II (haven't finished)]()  
 [64. Minimum Path Sum (haven't finished)]()  
 [174. Dungeon Game (haven't finished)]()  
+
+## group 4(two pointers)
+[75. Sort Colors (haven't finished)]()  
